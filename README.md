@@ -15,3 +15,10 @@ The Observer Pattern defines a one-to-many
 dependency between objects so that when one
 object changes state, all of its dependents are
 notified and updated automatically
+
+## Decorator Pattern
+
+The Decorator Pattern attaches additional
+responsibilities to an object dynamically.
+Decorators provide a fl exible alternative to
+subclassing for extending functionality
