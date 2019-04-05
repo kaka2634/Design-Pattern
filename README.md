@@ -33,3 +33,7 @@ instantiation to subclasses
 The Abstract Factory Pattern provides an interface
 for creating families of related or dependent objects
 without specifying their concrete classes.
+
+## Singleton Pattern
+The Singleton Pattern ensures a class has only one
+instance, and provides a global point of access to it.
