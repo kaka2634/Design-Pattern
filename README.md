@@ -58,3 +58,7 @@ interface that makes the subsystem easier to use.
 ## Proxy Pattern
 The Proxy Pattern provides a surrogate or
 placeholder for another object to control access to it.
+
+# Bridge Pattern
+The intend of the Bridge Pattern is to decouple the abstraction
+from its implementation so that the two can vary independently.
