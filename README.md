@@ -59,6 +59,13 @@ interface that makes the subsystem easier to use.
 The Proxy Pattern provides a surrogate or
 placeholder for another object to control access to it.
 
-# Bridge Pattern
+## Bridge Pattern
 The intend of the Bridge Pattern is to decouple the abstraction
 from its implementation so that the two can vary independently.
+
+## Template Pattern
+The Template Method Pattern defines the skeleton
+of an algorithm in a method, deferring some steps to
+subclasses. Template Method lets subclasses redefine
+certain steps of an algorithm without changing the
+algorithm’s structure.
