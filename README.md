@@ -69,3 +69,10 @@ of an algorithm in a method, deferring some steps to
 subclasses. Template Method lets subclasses redefine
 certain steps of an algorithm without changing the
 algorithm’s structure.
+
+## Composite Pattern
+The Composite Pattern allows you to
+compose objects into tree structures to
+represent part-whole hierarchies. Composite
+lets clients treat individual objects and
+compositions of objects uniformly
