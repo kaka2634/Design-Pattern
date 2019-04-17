@@ -81,3 +81,9 @@ compositions of objects uniformly
 The State Pattern allows an object to alter its behavior
 when its internal state changes. The object will appear to
 change its class.
+
+## Iterator Pattern
+The Iterator Pattern provides a way to
+access the elements of an aggregate object
+sequentially without exposing its underlying
+representation.
